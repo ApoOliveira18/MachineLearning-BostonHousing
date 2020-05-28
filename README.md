@@ -40,12 +40,11 @@ Nota: Células de Código e de Markdown podem ser executadas utilizando o atalho
 
 This project was developed with the following technologies:
 
-- [ReactNative](https://reactnative.dev/) 
-- [Tyscript](https://www.typescriptlang.org/docs/home.html)
+- [Python 2.7](https://docs.python.org/2/index.html) 
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [ReactNative][reactnative] + [Yarn][yarn] installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com), [python][python] + [Spyder][spyder] installed on your computer.
 
 From your command line:
 
