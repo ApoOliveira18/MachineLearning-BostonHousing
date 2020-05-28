@@ -25,14 +25,14 @@ Nota: Células de Código e de Markdown podem ser executadas utilizando o atalho
 </p>
 
 <p align="center"> 
-  <img alt="Int" title="Int" src="assets/intProj2.png" width="610px" />
-  <img alt="Int" title="Int" src="assets/int1Proj2.png" width="600px" />
-  <img alt="Int" title="Int" src="assets/int2Proj2.png" width="600px" />
-  <img alt="Int" title="Int" src="assets/int3Proj2.png" width="600px" />
-  <img alt="Int" title="Int" src="assets/int4Proj2.png" width="600px" />
-  <img alt="Int" title="Int" src="assets/int5Proj2.png" width="600px" />
-  <img alt="Int" title="Int" src="assets/int6Proj2.png" width="600px" />
-  <img alt="Int" title="Int" src="assets/int7Proj2.png" width="600px" /> 	
+  <img alt="Int" title="Int" src="assets/intProj2.png" width="810px" />
+  <img alt="Int" title="Int" src="assets/int1Proj2.png" width="800px" />
+  <img alt="Int" title="Int" src="assets/int2Proj2.png" width="800px" />
+  <img alt="Int" title="Int" src="assets/int3Proj2.png" width="800px" />
+  <img alt="Int" title="Int" src="assets/int4Proj2.png" width="800px" />
+  <img alt="Int" title="Int" src="assets/int5Proj2.png" width="800px" />
+  <img alt="Int" title="Int" src="assets/int6Proj2.png" width="800px" />
+  <img alt="Int" title="Int" src="assets/int7Proj2.png" width="800px" /> 	
  </p>
 
 
