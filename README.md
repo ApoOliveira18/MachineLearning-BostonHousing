@@ -17,12 +17,22 @@
 
 ## 💻 Project
 
-<p>In this challenge, he will develop a new application, GoMarketplace. This time it's time for you to practice what you've learned so far in React Native, along with TypeScript, using routes, Async Storage and the Context API.</p>
+<p>Neste Notebook, alguns templates de código estão sendo fornecidos para você, e você irá precisar implementar funcionalidades adicionais para completar este projeto com sucesso. Você não vai precisar modificar o código que foi incluído além do que está sendo pedido. Seções que começam com 'Implementação' no cabeçalho indicam que o bloco de código seguinte vai exigir que você providencie funcionalidade adicional. Instruções serão fornecidas para cada seção e as especificidades da implementação são marcadas no bloco de código com o comando 'TODO'. Não esqueça de ler as instruções atentamente!
+
+Além do código implementado, haverá questões relacionadas com o projeto e sua implementação que você deve responder. Cada seção em que há uma questão para você responder, ela será precedida por 'Questão X' no cabeçalho. Leia cada questão cuidadosamente e dê respostas completas no seguinte box de texto que contém 'Resposta: '. O projeto enviado será avaliado com base nas respostas para cada uma das questões e a implementação que você nos forneceu.
+
+Nota: Células de Código e de Markdown podem ser executadas utilizando o atalho de teclado Shift + Enter. Além disso, as células Markdown podem ser editadas ao clicar normalmente duas vezes na célula para entrar no modo de edição.
+</p>
 
 <p align="center">    
-  <img alt="Login-Page" title="Login-Page" src="src/assets/int1.png" width="300px" />
-  <img alt="Login-Page" title="Login-Page" src="src/assets/int2.png" width="300px" />
-   <img alt="Login-Page" title="Login-Page" src="src/assets/test.png" width="350px" />
+  <img alt="Login-Page" title="Login-Page" src="src/assets/int1Proj2.png" width="300px" />
+  <img alt="Login-Page" title="Login-Page" src="src/assets/int2Proj2.png" width="300px" />
+  <img alt="Login-Page" title="Login-Page" src="src/assets/int3Proj2.png" width="350px" />
+  <img alt="Login-Page" title="Login-Page" src="src/assets/int43Proj2.png" width="350px" />
+  <img alt="Login-Page" title="Login-Page" src="src/assets/int5Proj2.png" width="350px" />
+  <img alt="Login-Page" title="Login-Page" src="src/assets/int6Proj2.png" width="350px" />
+  <img alt="Login-Page" title="Login-Page" src="src/assets/int7Proj2.png" width="350px" />
+  <img alt="Login-Page" title="Login-Page" src="src/assets/intProj2.png" width="350px" />	
  </p>
 
 
