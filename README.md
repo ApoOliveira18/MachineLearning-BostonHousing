@@ -24,15 +24,15 @@ Além do código implementado, haverá questões relacionadas com o projeto e su
 Nota: Células de Código e de Markdown podem ser executadas utilizando o atalho de teclado Shift + Enter. Além disso, as células Markdown podem ser editadas ao clicar normalmente duas vezes na célula para entrar no modo de edição.
 </p>
 
-<p align="center">    
-  <img alt="Login-Page" title="Login-Page" src="src/assets/int1Proj2.png" width="300px" />
-  <img alt="Login-Page" title="Login-Page" src="src/assets/int2Proj2.png" width="300px" />
-  <img alt="Login-Page" title="Login-Page" src="src/assets/int3Proj2.png" width="350px" />
-  <img alt="Login-Page" title="Login-Page" src="src/assets/int43Proj2.png" width="350px" />
-  <img alt="Login-Page" title="Login-Page" src="src/assets/int5Proj2.png" width="350px" />
-  <img alt="Login-Page" title="Login-Page" src="src/assets/int6Proj2.png" width="350px" />
-  <img alt="Login-Page" title="Login-Page" src="src/assets/int7Proj2.png" width="350px" />
-  <img alt="Login-Page" title="Login-Page" src="src/assets/intProj2.png" width="350px" />	
+<p align="center"> 
+  <img alt="Login-Page" title="Login-Page" src="assets/intProj2.png" width="350px" />
+  <img alt="Login-Page" title="Login-Page" src="assets/int1Proj2.png" width="300px" />
+  <img alt="Login-Page" title="Login-Page" src="assets/int2Proj2.png" width="300px" />
+  <img alt="Login-Page" title="Login-Page" src="assets/int3Proj2.png" width="350px" />
+  <img alt="Login-Page" title="Login-Page" src="assets/int43Proj2.png" width="350px" />
+  <img alt="Login-Page" title="Login-Page" src="assets/int5Proj2.png" width="350px" />
+  <img alt="Login-Page" title="Login-Page" src="assets/int6Proj2.png" width="350px" />
+  <img alt="Login-Page" title="Login-Page" src="assets/int7Proj2.png" width="350px" /> 	
  </p>
 
 
