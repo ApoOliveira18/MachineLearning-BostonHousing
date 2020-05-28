@@ -38,29 +38,23 @@ Nota: Células de Código e de Markdown podem ser executadas utilizando o atalho
 
 ## :rocket: Technologies
 
-This project was developed with the following technologies:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Python 2.7](https://docs.python.org/2/index.html) 
 - [Jupyter](https://jupyter.org/try) 
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [python][python] + [Jupyter][jupyter] installed on your computer.
+Para clonar essa aplicação, você precisará de [Git](https://git-scm.com), [Python][python] + [Jupyter][jupyter] instalados em seu computador.
 
-From your command line:
+Na sua linha de comando
 
 ### Install API
 ```bash
 # Clone this repository
-$ git clone https://github.com/ApoOliveira18/desafio-fundamentos-react-native.git
+$ git clone https://github.com/ApoOliveira18/MachineLearning-BostonHousing.git
 # Go into the repository
-$ cd desafio-fundamentos-react-native/
-
-# Install dependencies for directories
-$yarn
-
-# Run tests
-$ yarn test
+$ cd MachineLearning-BostonHousing/
 ```
 
 ## 🤔 How to contribute
