@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="ML Udacity" title="#Logo" src="assets/udLg.jpg" width="350px" />
+    <img alt="ML Udacity" title="#Logo" src="assets/udLg.jpg" width="550px" />
 </h1>
 
 <h4 align="center"> 
