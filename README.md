@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#Logo" src="src/assets/lg.png" width="250px" />
+    <img alt="ML Udacity" title="#Logo" src="assets/udLg.jpg" width="350px" />
 </h1>
 
 <h4 align="center"> 
-	:heavy_check_mark: 🚀 Challenge 8: React Native Fundamentals :heavy_check_mark:
+	:heavy_check_mark: 🚀 Machine Learning - Estimando preços dos imóveis em Boston :heavy_check_mark:
 </h4>
 
 <p align="center">
