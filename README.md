@@ -41,10 +41,11 @@ Nota: Células de Código e de Markdown podem ser executadas utilizando o atalho
 This project was developed with the following technologies:
 
 - [Python 2.7](https://docs.python.org/2/index.html) 
+- [Jupyter](https://jupyter.org/try) 
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [python][python] + [Spyder][spyder] installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com), [python][python] + [Jupyter][jupyter] installed on your computer.
 
 From your command line:
 
@@ -80,14 +81,9 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) for details
 Feito com ♥ && 🎧 && 😊 || 😥 
  por Adilson Oliveira :wave: [Get in touch!] www.linkedin.com/in/adilson-p-oliveira
 
-[nodejs]: https://nodejs.org/
-[yarn]: https://yarnpkg.com/
-[vc]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-[reactnative]: https://reactnative.dev/
-[typescript]: https://www.typescriptlang.org/docs/home.html
+[python]: https://docs.python.org/2/index.html
+[jupyter]: https://yarnpkg.com/
+
 
 
 
